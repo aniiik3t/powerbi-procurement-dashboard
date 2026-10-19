@@ -1,4 +1,4 @@
-# SAP ERP Procurement Dashboard — Power BI
+# Procurement Dashboard — Power BI
 
 ## Project Overview
 An interactive procurement dashboard developed using Microsoft Power BI to analyze purchase orders, supplier performance, material usage, and procurement trends.
